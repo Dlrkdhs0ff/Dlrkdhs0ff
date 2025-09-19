@@ -37,6 +37,6 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DlrkdhsOff&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dlrkdhs0ff&show_icons=true&theme=tokyonight)
 
 </div>
